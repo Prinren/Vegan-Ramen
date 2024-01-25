@@ -58,7 +58,7 @@ nav.navbar {
   bottom: 0;
   left: 0;
   right: 0;
-  background-image: url(/Assets/Foot.png);
+  background-image: url(Assets/Foot.png);
   background-repeat: no-repeat;
   background-size: cover;
   z-index: 5;
