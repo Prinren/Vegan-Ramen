@@ -167,6 +167,15 @@ h3 {
   text-shadow: 2px 2px 2px #ffffff8e;
 }
 
+h4 {
+  color: #1f378f;
+  font-family: "xunga-variable", sans-serif;
+  font-size: 16pt;
+  font-weight: 100;
+  text-align: center;
+  text-shadow: 2px 2px 2px #ffffff8e;
+}
+
 p {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1em;
@@ -410,6 +419,13 @@ textarea {
   padding: 5px;
   background-color: #b3e084;
   border-style: dashed 2px #fff;
+}
+.instagram-media{
+  align-self: center;
+}
+.impossible-location{
+text-align: center;
+
 }
 
 footer{
